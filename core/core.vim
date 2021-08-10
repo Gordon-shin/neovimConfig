@@ -17,10 +17,12 @@ if empty(glob('~/.config/nvim/autoload/plug.vim'))
 endif
 
 "模块化配置
+source ~/.config/nvim/plug/plug_list.vim
+source ~/.config/nvim/theme/theme.vim
 source ~/.config/nvim/core/general_config.vim
 source ~/.config/nvim/core/key_bindings.vim
 source ~/.config/nvim/core/special_config.vim
 source ~/.config/nvim/core/language_config.vim
-source ~/.config/nvim/plug/plug_list.vim
 source ~/.config/nvim/plug/plug_settings.vim
-source ~/.config/nvim/theme/theme.vim
+"默认主题设置
+color ayu

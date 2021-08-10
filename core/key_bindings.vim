@@ -17,6 +17,8 @@ noremap J 5h
 noremap L 5l
 
 noremap h i
+
+noremap H I
 "noremap r a
 "noremap E I
 "noremap R A
@@ -31,6 +33,7 @@ noremap = nzz
 noremap - Nzz
 noremap <LEADER><CR> :nohlsearch<CR>
 
+map V <C-v> 
 map <C-s> :w<CR>
 map <C-q> :q<CR>
 map Q :wq<CR>

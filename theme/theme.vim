@@ -1,9 +1,12 @@
 "========
 "主题设置
 "========
-color OceanicNext
+"color OceanicNext
+color ayu
+let ayucolor="light"  " for light version of theme
+
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
-set background=dark
+"set background=dark
 set termguicolors
 " hi Normal     ctermbg=NONE guibg=NONE
 " hi LineNr     ctermbg=NONE guibg=NONE
@@ -14,4 +17,4 @@ let g:enable_bold_font=1
 let g:enable_italic_font=1
 let &t_ut=''
 " let g:oceanic_material_transparent_background = 1
-" let g:hybrid_transparent_background = 1
+ let g:hybrid_transparent_background = 1

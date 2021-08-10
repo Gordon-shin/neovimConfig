@@ -3,8 +3,9 @@ local gls = gl.section
 gl.short_line_list = {'LuaTree','vista','dbui'}
 
 local colors = {
-	bg = '#FF8800',
-  line_bg = '#FFFFFF',
+/*	bg = '#1b2b34',*/
+	bg = '#FF8800'
+  line_bg = '#21242b',
   fg = '#c0c0c0',
 
   yellow = '#fabd2f',

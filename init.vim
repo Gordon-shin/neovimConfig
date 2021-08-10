@@ -12,3 +12,4 @@
 " 要是真有的话当我没说。。咳咳很多东西我没写在README里
 " 感兴趣自己去看去吧啊
 execute 'source' fnamemodify(expand('<sfile>'), ':h').'/core/core.vim'
+"source ~/.config/nvim/core/core.vim

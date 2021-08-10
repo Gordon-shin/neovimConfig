@@ -20,6 +20,7 @@ Plug 'Yggdroot/indentLine',{ 'for': ['lua', 'c', 'h', 'cpp', 'py', 'json', 'go',
 Plug 'kristijanhusak/vim-hybrid-material'
 Plug 'hardcoreplayers/oceanic-material'
 Plug 'mhartington/oceanic-next'
+Plug 'ayu-theme/ayu-vim'
 "功能插件
 " Plug 'liuchengxu/vim-clap', { 'do': ':Clap install-binary!' }
 Plug 'tenfyzhong/CompleteParameter.vim',{'for':['lua', 'c', 'h', 'cpp', 'py', 'go', 'java', 'vim', 'json', 'hs']}
